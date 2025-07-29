@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-  cout<<"Hummans sucks"<<endl;
+  cout<<"Hummans sucks : true"<<endl;
   return 0;
 }
