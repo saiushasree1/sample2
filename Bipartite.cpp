@@ -22,5 +22,6 @@ bool isBipartite(vector<vector<int>>& gr) {
 
             }
         }
+        // hahaha
         return true;
     }
