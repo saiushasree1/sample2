@@ -8,6 +8,7 @@ int findparent(vector<int> &parent,int i){
         if(x==y) return;
         parent[x]=y;
     }
+        // hehe
     vector<vector<string>> accountsMerge(vector<vector<string>>& accounts) {
         int n=accounts.size();
         vector<int> parent(n,0);
